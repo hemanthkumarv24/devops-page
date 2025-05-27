@@ -36,3 +36,13 @@
     transform: rotate(360deg);
   }
 }
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial;
+}
+
+.ant-typography {
+  font-size: 20px; /* increase paragraph font size */
+  line-height: 1.6;
+}
