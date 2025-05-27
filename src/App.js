@@ -70,6 +70,8 @@ function App() {
               <li>Infrastructure as Code (IaC)</li>
               <li>Automated Testing and Monitoring</li>
               <li>Rollback and Recovery</li>
+              <li>Rollback and Recovery</li>
+              
               <li>Collaboration and Feedback Loops</li>
             </ul>
           </Card>
