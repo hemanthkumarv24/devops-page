@@ -72,6 +72,9 @@ function App() {
               <li>Rollback and Recovery</li>
               
               <li>Collaboration and Feedback Loops</li>
+              <li>Rollback and Recovery</li>
+              
+              <li>Collaboration and Feedback Loops</li>
             </ul>
           </Card>
 
